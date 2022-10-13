@@ -27,6 +27,8 @@
     width: 120%;
   }
 }
+. p {
+}
 
 .products-list {
   display: flex;
