@@ -175,6 +175,12 @@ Use these files to complete the implementation:
 
 </details>
 
+Note 
+This are the credentials to access the website
+
+Username: rahul
+password: rahul@2021
+
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
